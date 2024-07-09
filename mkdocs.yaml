@@ -1,0 +1,8 @@
+site_name: "showcase"
+site_description: "Documentation for showcase"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
